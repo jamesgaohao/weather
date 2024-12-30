@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moment": "^2.30.1",
+    "qweather-icons": "^1.6.0"
+  }
+}
